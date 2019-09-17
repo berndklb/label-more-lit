@@ -1,12 +1,12 @@
 {
-  "name": "label-more",
+  "name": "label-more-lit",
   "version": "1.0.0",
   "flat": true,
   "description": "Text with a button to show more of the content",
-  "main": "label-more.js",
+  "main": "label-more-lit.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/berndklb/label-more-litelement.git"
+    "url": "https://github.com/berndklb/label-more-lit.git"
   },
   "author": "BKB",
   "license": "BSD-3-Clause",

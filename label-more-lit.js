@@ -1,7 +1,7 @@
 import { LitElement, html, css } from 'lit-element';
 
 // Extend the LitElement base class
-class LabelMore extends LitElement {
+class LabelMoreLit extends LitElement {
 
     static get properties() {
         return {
@@ -142,4 +142,4 @@ class LabelMore extends LitElement {
   }
 }
 // Register the new element with the browser.
-customElements.define('label-more', LabelMore);
+customElements.define('label-more-lit', LabelMoreLit);
