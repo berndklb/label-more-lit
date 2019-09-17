@@ -1,0 +1,20 @@
+{
+  "name": "label-more",
+  "version": "1.0.0",
+  "flat": true,
+  "description": "Text with a button to show more of the content",
+  "main": "label-more.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berndklb/label-more-litelement.git"
+  },
+  "author": "BKB",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "lit-element": "2.2.1",
+    "@webcomponents/webcomponentsjs": "2.2.10"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  }
+}
